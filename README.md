@@ -84,21 +84,13 @@ Building Scalable & Modern Web Applications
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jahidul-reza-07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://www.facebook.com/jahidul.reza.07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" alt="Facebook" />
-  </a>
-  <a href="https://www.instagram.com/jahidul_reza07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram" />
-  </a>
-  <a href="https://twitter.com/jahidul_reza07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" height="40" alt="Twitter" />
-  </a>
+<a href="https://www.linkedin.com/in/jahidul-reza-07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://twitter.com/jahidul_reza07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://www.facebook.com/jahidul.reza.07" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/jahidul_reza07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
 
 
