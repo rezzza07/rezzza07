@@ -1,91 +1,93 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=250&section=header&text=Jahidul%20Islam%20Reza&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22C55E&height=220&section=header&text=Jahidul%20Islam%20Reza&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
+</p>
+
+<h3 align="center">
+🚀 MERN Stack Developer | Frontend & Backend  
+</h3>
+
+<p align="center">
+React • Node.js • Express.js • MongoDB  
+<br/>
+Building Scalable & Modern Web Applications
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer;React+%2B+Tailwind+Specialist;Scalable+Backend+Architect;Turning+Coffee+into+Code" />
+  <img src="https://komarev.com/ghpvc/?username=rezzza07&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/rezzza07">
-    <img src="https://komarev.com/ghpvc/?username=rezzza07&label=PROFILE+VIEWS&color=22C55E&style=flat-square" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%2B+Tailwind+Specialist;Clean+UI+%26+Scalable+Backend;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 💫 About Me
+## 🙋‍♂️ About Me
 
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3>Hello World! 👋</h3>
-      I'm <b>Jahidul</b>, a passionate Full-Stack Developer dedicated to building seamless digital experiences. I thrive on solving complex problems with clean code.
-      <br/><br/>
-      <ul>
-        <li>🌱 Currently mastering <b>Microservices & Next.js</b></li>
-        <li>🔥 Core focus: <b>MERN Stack</b></li>
-        <li>🎨 Design philosophy: <b>Minimalism & Performance</b></li>
-        <li>💬 Ask me about: <b>React, MongoDB, or UI/UX</b></li>
-      </ul>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rezzza07&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="100%" />
-    </td>
-  </tr>
-</table>
+- 🌱 Exploring **modern web technologies**  
+- 💻 Passionate about **Frontend & Backend development**  
+- 🔥 Love building **real-world MERN applications**  
+- 📚 Interested in **scalable & performance-focused systems**
 
 ---
 
-## 🛠 Tech Stack Orbit
+## 🧰 Technologies I Know
 
-<div align="center">
-  
-  ### 🎨 Frontend
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux,bootstrap&perline=8" />
-  
-  ### ⚙️ Backend & Database
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postman&perline=8" />
-  
-  ### 🔧 Languages & Tools
-  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,git,github,vscode,vercel,figma" />
-
-</div>
-
----
-
-## 📈 Activity & Insights
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezzza07&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzza07&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### 🐍 Contribution Journey
-<p align="center">
-  <img src="https://github-user-contribution-graph.vercel.app/api?username=rezzza07&theme=tokyonight" width="100%" />
+### 🛠 Backend & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+</p>
+
+### ⚙️ Tools & Others
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 🚀 Featured Work
+## 📊 GitHub Stats
 
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Book Courier** | Full-Stack Logistics System | `MERN` `Stripe` `Firebase` | [🌐 Live](https://book-courier-project.web.app) |
-| **Portfolio** | Modern Interactive Resume | `React` `Framer Motion` | [🌐 Live](#) |
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezzza07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Jahidul's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=rezzza07&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
+</p>
 
 ---
 
-## 🤝 Connect With Me
+## 🧠 Most Used Languages
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jahidul-islam-reza/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/rezzza07rmfc"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://www.facebook.com/profile.php?id=100072699900825"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezzza07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
+## 🚀 Featured Projects
+
+### 📚 Book Courier Project
+✨ Full-Stack MERN Web Application  
+🔗 **Live:** [Book Courier](https://book-courier-project.web.app)  
+🧩 **Tech:** React, Tailwind, Firebase, MongoDB, Express, Stripe  
+
+---
+
+## 🤝 Connect with Me
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=38BDF8&height=100&section=footer" />
+<a href="https://www.linkedin.com/in/jahidul-islam-reza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/rezzza07rmfc?s=20" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.facebook.com/profile.php?id=100072699900825" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+
 </p>
+can you change the desgin and use more gorgeous desig n fot chnage infor 
