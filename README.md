@@ -58,11 +58,11 @@ Building Scalable & Modern Web Applications
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezzza07&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=rezzza07&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Jahidul's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezzza07&theme=tokyonight&border_radius=12" />
+  <img src="https://streak-stats.demolab.com/?user=rezzza07&theme=tokyonight&border_radius=10" alt="GitHub Streak" />
 </p>
 
 ---
@@ -70,10 +70,8 @@ Building Scalable & Modern Web Applications
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzza07&layout=compact&theme=tokyonight&hide_border=false" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rezzza07&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
 
 ## 🚀 Featured Projects
 
@@ -87,10 +85,9 @@ Building Scalable & Modern Web Applications
 ## 🤝 Connect with Me
 
 <p align="center">
-<a href="https://www.linkedin.com/in/jahidul-reza-07" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://twitter.com/jahidul_reza07" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://www.facebook.com/jahidul.reza.07" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/jahidul_reza07" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.linkedin.com/in/jahidul-islam-reza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://x.com/rezzza07rmfc?s=20" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+<a href="https://www.facebook.com/profile.php?id=100072699900825" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/jahidreza_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
 </p>
-
 
