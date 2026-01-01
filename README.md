@@ -1,6 +1,5 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22C55E&height=220&section=header&text=Jahidul Islam Reza&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:22C55E&height=220&section=header&text=Jahidul%20Islam%20Reza&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=40" />
 </p>
 
 <h3 align="center">
@@ -25,10 +24,10 @@ Building Scalable & Modern Web Applications
 
 ## 🙋‍♂️ About Me
 
-- 🌱 Exploring **modern web technologies**
-- 💻 Passionate about **Frontend & Backend development**
-- 🔥 Love building **real-world MERN applications**
-- 📚 Interested in scalable & performance-focused systems
+- 🌱 Exploring **modern web technologies**  
+- 💻 Passionate about **Frontend & Backend development**  
+- 🔥 Love building **real-world MERN applications**  
+- 📚 Interested in **scalable & performance-focused systems**
 
 ---
 
@@ -55,6 +54,7 @@ Building Scalable & Modern Web Applications
 </p>
 
 ---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -83,19 +83,21 @@ Building Scalable & Modern Web Applications
 🧩 **Tech:** React, Tailwind, Firebase, MongoDB, Express, Stripe  
 
 ---
+
 ## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jahidul-reza-07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.facebook.com/jahidul.reza.07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="50" height="50" alt="Facebook" title="Facebook" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://www.instagram.com/jahidul_reza07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" height="40" alt="Instagram" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" height="50" alt="Instagram" title="Instagram" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
   <a href="https://twitter.com/jahidul_reza07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40" alt="Twitter" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="50" height="50" alt="Twitter" title="Twitter" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
   </a>
 </p>
+
