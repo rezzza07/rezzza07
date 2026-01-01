@@ -54,3 +54,22 @@
 
 ```text
 MongoDB 🍃 → Express ⚡ → React ⚛️ → Node.js 🟢
+
+📊 GitHub Stats
+<!-- 👇 GitHub overall stats go HERE --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rezzza07&show_icons=true&theme=tokyonight&border_radius=12" /> </p>
+🔥 GitHub Streak
+<!-- 👇 Contribution streak goes HERE --> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezzza07&theme=tokyonight&border_radius=12" /> </p>
+🧠 Most Used Languages
+<!-- 👇 Most used languages section goes HERE --> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezzza07&layout=compact&theme=tokyonight&border_radius=12" /> </p>
+📌 Featured Project
+📚 Book Courier Project
+
+A full-stack MERN web application focused on book delivery and management.
+
+🔗 Live: https://book-courier-project.web.app
+
+🧩 Tech: React, Tailwind CSS, Firebase, MongoDB, Express.js, Stripe
+
+🤝 Connect With Me
+<p align="center"> <a href="https://github.com/rezzza07"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" /> </a> </p>
+<p align="center"> ✨ Built with passion • Learning every day • Growing as a developer 🚀 </p> ```
