@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | Frontend & Backend Engineer  
-React • Node.js • Express • MongoDB
+🚀 MERN Stack Developer | Frontend & Backend Developer  
+⚛️ React • 🟢 Node.js • ⚡ Express.js • 🍃 MongoDB  
+🌱 Building Scalable & Modern Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=rezzza07&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;React+%2B+Tailwind+UI+Builder;Backend+with+Node+%26+MongoDB;Building+Scalable+Web+Apps;Always+Learning+New+Tech" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;React+%26+Tailwind+Expert;Frontend+%2B+Backend+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 💻 Passionate about building **modern, responsive, and scalable web applications**
-- ⚛️ Strong focus on **React & Tailwind CSS** for clean UI
-- 🛠 Experienced in **backend development with Node.js & Express**
-- 🍃 Working with **MongoDB** for real-world databases
-- 🌱 Always exploring **new technologies and best practices**
+- 💻 MERN Stack Developer focused on **React & modern UI**
+- 🎨 Love creating **clean, responsive, and user-friendly interfaces**
+- 🛠 Comfortable with **frontend & backend development**
+- 🚀 Interested in **scalable web applications**
+- 📚 Enjoy building real-world projects like book-based platforms
 
 ---
 
@@ -32,14 +33,9 @@ React • Node.js • Express • MongoDB
   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
-### 🛠 Backend
+### 🛠 Backend & Database
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄 Database & Auth
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
 </p>
 
 ### 💻 Programming Languages
@@ -47,14 +43,14 @@ React • Node.js • Express • MongoDB
   <img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
 </p>
 
-### ⚙️ Tools & Platforms
+### ⚙️ Tools & Others
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,netlify" />
 </p>
 
 ---
 
-## 🌐 MERN Stack Workflow
+## 🚀 MERN Stack Overview
 
 ```text
 MongoDB 🍃 → Express ⚡ → React ⚛️ → Node.js 🟢
