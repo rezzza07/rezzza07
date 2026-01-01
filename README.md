@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 
 <h3 align="center">
-🚀 MERN Stack Developer | Frontend & Backend Engineer  
+🚀 MERN Stack Developer | Frontend & Backend Developer
 </h3>
 
 <p align="center">
