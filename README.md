@@ -88,16 +88,17 @@ Building Scalable & Modern Web Applications
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jahidul-reza-07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="50" height="50" alt="LinkedIn" title="LinkedIn" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.facebook.com/jahidul.reza.07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="50" height="50" alt="Facebook" title="Facebook" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/facebook.svg" width="40" height="40" alt="Facebook" />
   </a>
   <a href="https://www.instagram.com/jahidul_reza07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="50" height="50" alt="Instagram" title="Instagram" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" width="40" height="40" alt="Instagram" />
   </a>
   <a href="https://twitter.com/jahidul_reza07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="50" height="50" alt="Twitter" title="Twitter" style="margin: 0 10px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.2)'" onmouseout="this.style.transform='scale(1)'" />
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" width="40" height="40" alt="Twitter" />
   </a>
 </p>
+
 
